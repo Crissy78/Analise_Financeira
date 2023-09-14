@@ -1,7 +1,7 @@
 
 # Análise de Desempenho Financeiro com o Power BI
 
-![Link do Dashboard](https://youtu.be/Ii3eBimEaiI?si=mwWzuH5_eouFdr7A)
+[Link do Dashboard](https://youtu.be/Ii3eBimEaiI?si=mwWzuH5_eouFdr7A)
 
 
 Este repositório contém um Dashboard de análise de desempenho financeiro de uma empresa fictícia. O Dashboard foi criado utilizando o Power BI e abrange o período de janeiro de 2017 a dezembro de 2018. O objetivo é apresentar indicadores cruciais relacionados a receitas, custos, despesas e lucros, fornecendo insights valiosos para qualquer empresa.
