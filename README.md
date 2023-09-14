@@ -1,36 +1,38 @@
 
 # Análise de Desempenho Financeiro com o Power BI
 
-![Imagem de Visualização](link-para-imagem.png)
+![Link do Dashboard](https://youtu.be/Ii3eBimEaiI?si=mwWzuH5_eouFdr7A)
 
-Este repositório contém um projeto de análise de desempenho financeiro que realizei usando o Power BI. O objetivo deste projeto era demonstrar minha habilidade em transformar dados brutos em insights valiosos no contexto financeiro.
 
-## Descrição do Projeto
+Este repositório contém um Dashboard de análise de desempenho financeiro de uma empresa fictícia. O Dashboard foi criado utilizando o Power BI e abrange o período de janeiro de 2017 a dezembro de 2018. O objetivo é apresentar indicadores cruciais relacionados a receitas, custos, despesas e lucros, fornecendo insights valiosos para qualquer empresa.
 
-Neste projeto, trabalhei com um conjunto de dados fictícios de uma empresa, composto por informações de receitas, despesas, lucros e clientes ao longo dos anos de 2017 e 2018. O processo envolveu as seguintes etapas:
+## Processo de Criação
 
-1. **Importação e Preparação de Dados:** Utilizei o Power Query para importar e tratar os dados, realizando limpezas, renomeando colunas e criando relacionamentos entre tabelas.
+O processo de criação do Dashboard envolveu várias etapas:
 
-2. **Criação de Métricas Personalizadas:** Foram desenvolvidas métricas personalizadas para calcular receita total, despesas totais, lucro líquido, margens e crescimento anual.
+1. **Importação e Preparação de Dados**: Foram importadas três tabelas de dados e tratadas para garantir consistência e integridade dos dados. O Power Query foi usado para limpar e organizar os dados.
 
-3. **Visualização de Dados Interativa:** Utilizei o Power BI para criar visualizações interativas, incluindo gráficos de barras, gráficos de linhas e tabelas dinâmicas. Isso permitiu uma exploração mais profunda dos dados.
+2. **Criação de Relacionamentos**: No Power BI, foram estabelecidos relacionamentos entre as tabelas de dados para permitir análises mais complexas e integradas.
 
-4. **Criação de Dashboard:** Um dashboard interativo foi desenvolvido para organizar as visualizações e proporcionar uma experiência de usuário mais eficaz.
+3. **Criação de Métricas com DAX**: Utilizando as funções DAX (Data Analysis Expressions), foram criadas métricas importantes para avaliar o desempenho financeiro da empresa.
 
-## Como Utilizar
+4. **Design no Figma**: O layout do Dashboard foi desenvolvido no Figma, utilizando plugins e ícones da comunidade para criar uma interface atrativa e informativa.
 
-Se você deseja explorar os resultados desta análise ou aprender mais sobre o processo, siga estas etapas:
+## Insights Principais
 
-1. Clone ou faça o download deste repositório.
+A análise revelou os seguintes insights:
 
-2. Abra o arquivo `.pbix` no Power BI Desktop para interagir com as visualizações.
+- **Margem de Lucro em Ascensão**: A empresa aumentou sua margem de lucro, tanto em valor absoluto quanto em percentual, de 2017 para 2018, demonstrando uma melhoria na eficiência operacional e na rentabilidade.
 
-3. Explore o dashboard e as visualizações para obter insights sobre o desempenho financeiro da empresa fictícia nos anos de 2017 e 2018.
+- **Crescimento Expressivo da Receita**: A receita da empresa cresceu significativamente, com um aumento de cerca de 53,53% de 2017 para 2018, indicando uma demanda crescente pelos produtos/serviços da empresa.
 
-## Contato
+- **Prejuízos em Meses Específicos**: Os meses de abril e junho registraram prejuízos significativos em ambos os anos, apontando a necessidade de uma análise mais aprofundada para compreender as causas e implementar medidas preventivas.
 
-Se você tiver alguma pergunta, comentário ou desejar discutir mais detalhes sobre este projeto, não hesite em entrar em contato comigo. Vamos conectar e compartilhar conhecimento!
+- **Clientes Relevantes**: Os clientes 26 e 9 representam cerca de 31,66% da receita total da empresa, destacando a importância desses clientes para o desempenho financeiro da empresa.
 
----
+- **Custos em Crescimento, Despesas Controladas**: Os custos totais aumentaram de 2017 para 2018, enquanto as despesas totais diminuíram. Essas mudanças contribuíram para o aumento da margem de lucro e do lucro líquido em 2018.
 
-**Nota:** Os dados usados neste projeto são fictícios e foram criados apenas para fins de demonstração de habilidades em análise de dados e visualização.
+
+
+
+
